@@ -10,27 +10,26 @@ Neste repositório, eu irei documentar e versionar o desenvolvimento de um proje
 
 ### Aula 01
 
-No primeiro commit, subi o conteúdo referente à **Aula 01**, onde foram abordados os seguintes tópicos:
-
-- **Instalação e Configuração do Ambiente de Desenvolvimento:**
-  
-- **Configuração Inicial do Projeto:**
-  
+- **Configuração do Ambiente:**
+  - Instalação e configuração inicial do projeto.
 - **Desenvolvimento do Primeiro Endpoint:**
   - Criação de um simples endpoint "Olá Mundo" com FastAPI.
-  - Servindo a aplicação web localmente.
-
-- **Documentação Automática:**
-  - Exploração da documentação automática gerada pelo FastAPI usando Swagger e Redoc.
-
 - **Ferramentas Auxiliares:**
-  - Instalação e configuração de ferramentas como `Ruff` para linting e formatação.
-  - Instalação do `pytest` e `pytest-cov` para testes automatizados.
-  - Utilização do `taskipy` para facilitar a execução de tarefas comuns.
-
+  - Instalação e configuração de ferramentas para linting, formatação, e testes automatizados.
 - **Versionamento com Git:**
-  - Criação do arquivo `.gitignore` usando a ferramenta `ignr`.
-  - Inicialização do repositório Git e configuração do GitHub.
+  - Configuração do repositório Git e GitHub.
+
+### Aula 02
+
+- **Conceitos de Internet e Redes:**
+  - Arquitetura Cliente-Servidor e Uvicorn.
+- **Modelo Padrão da Web:**
+  - URL, HTTP, verbos HTTP e códigos de resposta.
+- **APIs e JSON:**
+  - Introdução ao Pydantic para validação de dados.
+- **Implementações de Código:**
+  - Criação de um endpoint que retorna "Olá Mundo!" em HTML.
+  - Teste do novo endpoint HTML.
 
 ## Estrutura do Repositório
 
